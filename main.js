@@ -2,6 +2,7 @@
 const showHiddenPass = (inputPass,inputIcon)=>{
     const input = document.getElementById(inputPass),
         iconEye = document.getElementById(inputIcon)
+// testing 
 
         iconEye.addEventListener('click', () =>{
             //Change Password to text
